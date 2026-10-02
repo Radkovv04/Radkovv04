@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software engineer who loves creating things that inspire me. From stats bot to server develpoer. From text editor to game developer
+Software engineer who loves creating things that inspire me. From stats bot to server developer. From text editor to game developer. Love creating new things everyday and dreaming about creating the software that will impact people all around the world one way or another
 
 🌱 &nbsp;I'm currently learning **Java**  
 💬 &nbsp;Ask me about **API design, game &amp; app ideas**  
